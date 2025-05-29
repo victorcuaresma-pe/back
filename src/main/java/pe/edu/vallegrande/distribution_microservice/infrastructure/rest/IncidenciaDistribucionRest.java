@@ -9,7 +9,6 @@ import pe.edu.vallegrande.distribution_microservice.domain.models.IncidenciaDist
 import pe.edu.vallegrande.distribution_microservice.infrastructure.dto.ErrorMessage;
 import pe.edu.vallegrande.distribution_microservice.infrastructure.dto.ResponseDto;
 
-
 import java.util.List;
 
 @RestController
